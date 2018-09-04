@@ -1,0 +1,3 @@
+[submodule "ex2"]
+	path = ex2
+	url = https://github.com/olandesino/ex2.git
